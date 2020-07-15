@@ -17,5 +17,5 @@ Hi, I'm Sami and I make hell lot of errors. But I try my best to fix.
 
 
 <a href="https://github.com/IamTheRealSami/LavalinkOnHeroku">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=LavalinkOnHeroku&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=IamTheRealSami&repo=LavalinkOnHeroku&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
