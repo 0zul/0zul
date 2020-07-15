@@ -13,7 +13,6 @@ Hi, I'm Sami and I make hell lot of errors. But I try my best to fix.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I break stuff ;)
 
-[![Error's github stats](https://github-readme-stats-1-five.vercel.app/api?username=IamTheRealSami&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]
-
+[![Error's github stats](https://github-readme-stats-1-five.vercel.app/api?username=IamTheRealSami&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://iamtherealsami.github.io/)
 
 
