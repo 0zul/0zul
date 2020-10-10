@@ -4,10 +4,10 @@
 
 Hi, I'm Sami and I make hell lot of errors. But I try my best to fix.
 
-- 🔭 I’m currently working on [Erei](https://github.com/EreiBot), A very unique Discord bot which does a lot of stuff.
+- 🔭 I’m currently working on [Fontzee](https://github.com/fontzee), A fast and reliable web fonts hosting solution for better web development.
 - 🌱 I’m currently learning TypeScript, React, Vue and Pug.
-- 👯 I’m looking to collaborate on [Erei](https://github.com/EreiBot)
-- 🤔 I’m looking for help with [Erei](https://github.com/EreiBot)
+- 👯 I’m looking to collaborate on [Fontzee](https://github.com/fontzee)
+- 🤔 I’m looking for help with [Fontzee](https://github.com/fontzee)
 - 💬 Ask me about [here](https://github.com/IamTheRealSami/IamTheRealSami/issues)
 - 📫 How to reach me: [disguisedviper@gmail.com](mailto:disguisedviper@gmail.com)
 - 😄 Pronouns: He/Him
