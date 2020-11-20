@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iamtherealsami" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iamtherealsami" height="30" width="40" /></a>
-<a href="https://instagram.com/disguisedviper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="disguisedviper" height="30" width="40" /></a>
+<a href="https://instagram.com/heyitzvelociti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="disguisedviper" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
