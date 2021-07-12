@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xanll</h1>
 <h3 align="center">hobbyist developer, a graphics designer, a gamer and a game developer learning to make great animations and games.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrvelociti&label=Profile%20views&color=c111e4&style=flat-square" alt="mrvelociti" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xanll&label=Profile%20views&color=c111e4&style=flat-square" alt="mrvelociti" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrvelociti" alt="mrvelociti" /></a> </p>
 
