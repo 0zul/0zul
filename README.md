@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imlarx&theme=dark" alt="imlarx" /></p>
 
-![DiscordProfileBanner](https://discord.c99.nl/widget/theme-3/892257014342885387.png)
+[![Discord Presence](https://lanyard.cnrad.dev/api/910540715308752976?animated=true)](https://discord.com/users/910540715308752976)
