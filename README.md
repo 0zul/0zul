@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0zul&theme=dark" alt="0zul" /></p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/910540715308752976?animated=true)](https://discord.com/users/910540715308752976)
+[![Discord Presence](https://lanyard.cnrad.dev/api/890626794116485130?animated=true)](https://discord.com/users/890626794116485130)
